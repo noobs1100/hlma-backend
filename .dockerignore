@@ -1,0 +1,8 @@
+node_modules
+tests
+.git
+.gitignore
+*.md
+.env
+.env.*
+drizzle/meta
